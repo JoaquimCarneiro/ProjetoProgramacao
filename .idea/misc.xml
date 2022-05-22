@@ -8,7 +8,7 @@
           <option name="fileUrl" value="file://$PROJECT_DIR$/core/classes/application.class.php" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="2145" />
+          <option name="caretOffset" value="2143" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/site/content/home.php" />
         </OpenedFileInfo>
         <OpenedFileInfo>
@@ -28,8 +28,12 @@
           <option name="fileUrl" value="file://$PROJECT_DIR$/core/classes/database.class.php" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="0" />
+          <option name="caretOffset" value="667" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/site/content/login.php" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/.gitignore" />
         </OpenedFileInfo>
       </list>
     </option>
