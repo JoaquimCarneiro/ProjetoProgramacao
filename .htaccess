@@ -1,0 +1,22 @@
+#Options -Indexes
+RewriteEngine on
+
+#RewriteRule ^(application|modules|system) - [F,L]
+#RewriteCond ^/(core|application|modules|system) -f
+#RewriteCond ^/(core|application|modules|system) -d
+#RewriteCond %{REQUEST_FILENAME} ^/(core|application|modules|system)
+#RewriteRule (.*) index.php?url=$0 - [L,QSA]
+
+#RewriteCond %{REQUEST_URI} ^/(core|modules)/(.*)$
+#RewriteRule (.*) index.php?li=$1 [L,QSA]
+
+#RewriteCond %{REQUEST_FILENAME} ^/(core|modules)/(.*)$
+#RewriteRule (.*) index.php?url=erro [L,QSA]
+
+#isto é uma falha de segurança
+RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+
+#RewriteRule (.*) index.php?url=$0 [PT,L]
+#RewriteRule (.*) index.php?url=$0 [L,QSA]
+RewriteRule (.*) index.php?url=$1 [L,QSA]

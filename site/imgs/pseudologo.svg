@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="170mm"
+   height="170mm"
+   viewBox="0 0 170 170"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="/home/quimkaos/Transferências/pseudologo.svg"
+   inkscape:export-xdpi="47.78104"
+   inkscape:export-ydpi="47.78104"
+   sodipodi:docname="pseudologo.svg"
+   inkscape:version="1.2-alpha1 (b6a15bb, 2022-02-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74347917"
+     inkscape:cx="311.37389"
+     inkscape:cy="284.47334"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-10,-50.000002)">
+    <g
+       id="g1970"
+       transform="matrix(1.3547873,0,0,1.3547873,-42.302546,-33.172961)">
+      <path
+         sodipodi:type="star"
+         style="font-variation-settings:normal;vector-effect:none;fill:#d45500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+         id="path890"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="272.54398"
+         sodipodi:cy="415.41602"
+         sodipodi:r1="220.81409"
+         sodipodi:r2="87.663193"
+         sodipodi:arg1="1.3632741"
+         sodipodi:arg2="1.9915926"
+         inkscape:rounded="0.62"
+         inkscape:randomized="0"
+         d="M 318.03961,631.49241 C 221.87666,651.73986 326.43328,535.57446 236.73467,495.43182 147.03605,455.28918 130.07449,610.65581 81.102037,525.45621 32.129584,440.25661 174.91922,503.79879 185.37874,406.08558 195.83826,308.37237 42.834401,340.2519 108.73072,267.3482 c 65.89631,-72.90369 49.58853,82.53293 145.75149,62.28549 96.16295,-20.24745 18.56293,-155.91145 108.26154,-115.76881 89.69862,40.14264 -63.16978,72.66557 -14.19733,157.86517 48.97246,85.19961 154.01686,-30.52489 143.55734,67.18832 -10.45952,97.71321 -88.6296,-37.62313 -154.52592,35.28057 -65.89632,72.90369 76.62473,137.04602 -19.53823,157.29347 z"
+         transform="matrix(0.26458333,0,0,0.26458333,26.768477,12.964738)"
+         inkscape:transform-center-x="-3.7197568"
+         inkscape:transform-center-y="1.9215681" />
+      <g
+         aria-label="LOGO"
+         id="text4084"
+         style="font-weight:800;font-stretch:extra-condensed;font-size:16.9333px;line-height:1.25;font-family:'Noto Sans Devanagari';-inkscape-font-specification:'Noto Sans Devanagari Ultra-Bold Extra-Condensed';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
+         transform="translate(26.768477,12.964738)"
+         inkscape:export-filename="/home/quimkaos/Transferências/pseudologo.svg"
+         inkscape:export-xdpi="47.78104"
+         inkscape:export-ydpi="47.78104">
+        <path
+           d="m 56.106757,116.19342 v -12.09038 h 2.573862 v 9.87212 h 3.18346 v 2.21826 z"
+           id="path13020" />
+        <path
+           d="m 71.465281,110.1313 q 0,2.96333 -1.117598,4.60586 -1.100664,1.62559 -3.318926,1.62559 -2.201329,0 -3.318927,-1.64253 -1.117598,-1.65946 -1.117598,-4.60585 0,-3.03106 1.134531,-4.60586 1.134531,-1.59173 3.301994,-1.59173 2.235195,0 3.33586,1.62559 1.100664,1.6256 1.100664,4.58893 z m -6.197588,0 q 0,3.96239 1.761064,3.96239 0.897464,0 1.320797,-0.9652 0.440266,-0.96519 0.440266,-2.99719 0,-2.032 -0.440266,-3.01413 -0.440266,-0.98213 -1.320797,-0.98213 -1.761064,0 -1.761064,3.99626 z"
+           id="path13022" />
+        <path
+           d="m 77.205685,109.2677 h 3.979325 v 6.40079 q -1.777996,0.69426 -3.742259,0.69426 -2.235196,0 -3.420527,-1.65946 -1.168397,-1.65946 -1.168397,-4.58892 0,-1.91347 0.592665,-3.302 0.592666,-1.38853 1.727197,-2.13359 1.134531,-0.74507 2.760128,-0.74507 0.914398,0 1.69333,0.22013 0.778932,0.2032 1.371597,0.54187 l -0.728132,2.11666 q -1.032931,-0.6604 -2.235195,-0.6604 -1.253065,0 -1.879597,1.04987 -0.626532,1.03293 -0.626532,2.98026 0,1.86266 0.507999,2.91253 0.524932,1.03293 1.557864,1.03293 0.541865,0 1.049864,-0.16934 v -2.52306 h -1.43933 z"
+           id="path13024" />
+        <path
+           d="m 91.598992,110.1313 q 0,2.96333 -1.117598,4.60586 -1.100664,1.62559 -3.318927,1.62559 -2.201329,0 -3.318926,-1.64253 -1.117598,-1.65946 -1.117598,-4.60585 0,-3.03106 1.134531,-4.60586 1.134531,-1.59173 3.301993,-1.59173 2.235196,0 3.335861,1.62559 1.100664,1.6256 1.100664,4.58893 z m -6.197588,0 q 0,3.96239 1.761063,3.96239 0.897465,0 1.320798,-0.9652 0.440266,-0.96519 0.440266,-2.99719 0,-2.032 -0.440266,-3.01413 -0.440266,-0.98213 -1.320798,-0.98213 -1.761063,0 -1.761063,3.99626 z"
+           id="path13026" />
+      </g>
+    </g>
+  </g>
+</svg>

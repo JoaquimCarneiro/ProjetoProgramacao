@@ -1,0 +1,112 @@
+/*----------------------------------------------------------------------------*/
+.contentor{
+  min-height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-rows: 140px 30px auto 80px;
+  background-color: #eee;
+}
+/*----------------------------------------------------------------------------*/
+
+/*----------------------------------------------------------------------------*/
+.contentor .header{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  /*padding: 20px;*/
+  background-color: #333;
+  color: #fff;
+  box-sizing: border-box;
+}
+/*----------------------------------------------------------------------------*/
+.contentor .header .logotipo{
+  display: flex;
+}
+.contentor .header .logotipo img{
+  margin: 10px;
+  height: 80px;
+  box-sizing: content-box;
+}
+.contentor .header .logotipo .tipo{
+  margin-left: 10px;
+}
+/*----------------------------------------------------------------------------*/
+
+/*----------------------------------------------------------------------------*/
+.bloco_menu{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0 10px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #d45500ff;
+}
+.bloco_menu a{
+  padding: 7px;
+  height: 30px;
+  display: block;
+  box-sizing: border-box;
+}
+.bloco_menu a:hover{
+  background-color: #333;
+}
+/*----------------------------------------------------------------------------*/
+.menu_principal{
+  display: flex;
+}
+/*----------------------------------------------------------------------------*/
+.login{
+  position: static;
+  display: inline-block;
+  width: 90px;
+  /*border-bottom: 5px solid #333;*/
+}
+.login .login_titulo{
+  text-align: center;
+  padding: 7px;
+  height: 30px;
+  display: block;
+  box-sizing: border-box;
+}
+.login .login_titulo:hover {
+  background-color: #333;
+  cursor: pointer;
+}
+
+.login:hover .login_menu{
+  display: block;
+}
+.login_menu{
+  position: absolute;
+  display: none;
+  width: 90px;
+  /*border-top: 5px solid #eee;*/
+  margin-right: 10px;
+  background-color: #d45500ff;
+  z-index: 1;
+}
+/*----------------------------------------------------------------------------*/
+
+/*----------------------------------------------------------------------------*/
+.contentor .footer{
+  display: flex;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+}
+/*----------------------------------------------------------------------------*/
+
+/*----------------------------------------------------------------------------*/
+.conteudo{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  max-width: 1024px;
+  width: 80%;
+  padding: 10px 20px 10px;
+  background-color: #ddd;
+  margin: 0 auto;
+}

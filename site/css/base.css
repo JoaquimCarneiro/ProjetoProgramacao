@@ -1,0 +1,81 @@
+body, html{ /* .!. */
+  height: 100%;
+}
+body{
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6{
+  font-weight: bold;
+  margin: 10px 0;
+}
+h1{
+  font-size: 38px;
+}
+h2{
+  font-size: 30px;
+}
+/*----------------------------------------------------------------------------*/
+
+/* */
+p{
+  line-height: 22px;
+  margin: 10px 0;
+}
+/*----------------------------------------------------------------------------*/
+
+/* Links */
+a{
+  color: #fff;
+}
+/*----------------------------------------------------------------------------*/
+
+/* Tabelas */
+table{
+  display: inline-block;
+  margin: 10px;
+}
+tbody{
+  border: 1px solid #333;
+}
+tr:nth-child(even) {
+  background-color: #999;
+}
+th{
+  font-size: 16px;
+  font-weight: 600;
+  padding: 10px;
+  background-color: #333;
+  color: #ccc;
+}
+td{
+  padding: 5px 10px 5px 10px;
+}
+/*----------------------------------------------------------------------------*/
+
+/* Formulários */
+form{
+  margin: 10px;
+}
+form label, form input{
+  margin: 10px 0;
+}
+form input{
+  padding: 3px 5px;
+}
+/*----------------------------------------------------------------------------*/
+
+/* Texto preformatado*/
+pre {
+  font-size: 13px;
+  font-style: italic;
+  line-height: 21px;
+  margin: 10px ;
+  padding: 20px;
+  color: #fff;
+  background-color: #333;
+}
+/*----------------------------------------------------------------------------*/
