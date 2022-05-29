@@ -1,6 +1,6 @@
 <?php
 class application {
-        public $db;
+        protected $db;
         protected $manageGet;
         public $pagina;
         public $categorias;
@@ -9,7 +9,7 @@ class application {
 
         function __construct(){
             $this->db  = new database;
-            $this->manageGet  = new manageGet;
+            $this->manageGet  = new manageGet($this->db);
 
             $this->pagina = $this->manageGet->pagina;
             $this->categorias = $this->manageGet->categorias;

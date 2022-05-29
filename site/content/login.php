@@ -3,7 +3,7 @@
     
   </header>
   <p>...login...</p>
-  <form action="process.php" method="POST">
+  <form action="/" method="POST">
       <fieldset>
           <label>Utilizador </label>
           <input type="text" name="user" maxlength="30" value="user">

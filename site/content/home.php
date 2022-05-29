@@ -10,18 +10,23 @@
     debug(true,  get_defined_vars());
 
   ?>
-<pre><?php print_r($qry = $app->db->qDb()); ?></pre>
+<pre><?php
+        $query = "SELECT * FROM users WHERE username = 'quim'";
+        $qry = $app->db->qDb($query);
+        print_r($qry);
+    ?></pre>
 <pre>
     <?php
     $mysqli = new mysqli(SERVER, DB_USER, DB_PWD, BD);
     $sql = "SELECT * FROM users";
     $result = $mysqli->query($sql); //$mysqli == ligação à BD
     print_r($result);
-    foreach($result as $value){
+
+    /*foreach($result as $value){
         echo   "<tr>
                     <td>".$value['username']."</td>
                </tr>";
-    }
+    }*/
     ?>
 </pre>
   <?php

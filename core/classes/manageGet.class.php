@@ -2,10 +2,8 @@
 class manageGet{
     public $pagina;
     public $categorias;
-    function __construct(){
-
+    function __construct($db){
         $this->setCatPage();
-
     }
     /* Função para determinar qual é a página e categoria requisitada
                 * Cria duas variaveis a partir do método manageurl():

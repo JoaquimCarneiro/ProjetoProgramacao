@@ -13,13 +13,9 @@ class database{
         }
     }
 
-    public function qDb(){
-        $query = $this->connection->query("SELECT * FROM users where username = 'admin'");
-        /*$arr = [];
-        foreach ($query as $item){
-            $arr[] = $item;
-        }
-        return $arr;*/
-        return $query->num_rows;
+    public function qDb($query){
+        $query = $this->connection->query($query)->fetch_assoc();
+
+        return $query;
     }
 }
