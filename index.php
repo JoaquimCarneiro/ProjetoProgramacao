@@ -2,7 +2,9 @@
     include "core/include/constants.inc.php";
     include "core/include/functions.inc.php";
     include "core/classes/database.class.php";
+    include "core/classes/manageErrors.class.php";
     include "core/classes/manageGet.class.php";
+    include "core/classes/managePost.class.php";
     include "core/classes/application.class.php";
     
     $app = new application;

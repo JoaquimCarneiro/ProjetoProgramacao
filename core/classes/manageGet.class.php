@@ -2,7 +2,7 @@
 class manageGet{
     public $pagina;
     public $categorias;
-    function __construct($db){
+    function __construct($db, $erros){
         $this->setCatPage();
     }
     /* Função para determinar qual é a página e categoria requisitada
