@@ -22,11 +22,7 @@
     $result = $mysqli->query($sql); //$mysqli == ligação à BD
     print_r($result);
 
-    /*foreach($result as $value){
-        echo   "<tr>
-                    <td>".$value['username']."</td>
-               </tr>";
-    }*/
+    
     ?>
 </pre>
   <?php
