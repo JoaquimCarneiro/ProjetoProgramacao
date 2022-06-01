@@ -22,7 +22,7 @@
     $result = $mysqli->query($sql); //$mysqli == ligação à BD
     print_r($result);
 
-    
+
     ?>
 </pre>
   <?php
