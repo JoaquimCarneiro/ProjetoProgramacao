@@ -11,16 +11,16 @@
 
   ?>
 <pre><?php
-        $query = "SELECT * FROM users WHERE username = 'quim'";
+        /*$query = "SELECT * FROM users WHERE username = 'quim'";
         $qry = $app->db->qDb($query);
-        print_r($qry);
+        print_r($qry);*/
     ?></pre>
 <pre>
     <?php
     $mysqli = new mysqli(SERVER, DB_USER, DB_PWD, BD);
     $sql = "SELECT * FROM users";
     $result = $mysqli->query($sql); //$mysqli == ligação à BD
-    print_r($result);
+    print_r(count($result->fetch_all()));
 
 
     ?>
