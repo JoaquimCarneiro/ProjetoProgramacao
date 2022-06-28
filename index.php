@@ -10,7 +10,7 @@
     $app = new application;
 
     /* temporário */
-    //$teste = preg_match('/^[a-zA-Z0-9_-]*$/', 'as-asas');
+    //$teste = preg_match('/^[a-zA-Z0-9_-]*$/', 'as-asas'); asas
 
     /* carregar classes */
 
